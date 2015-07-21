@@ -13,6 +13,8 @@
             equal(num, i + 1, 'each iterators provide value and iteration count');
         });
 
+        //_.each()
+
     });
 
     QUnit.test( "hello test", function( assert ) {
